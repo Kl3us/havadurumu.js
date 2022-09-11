@@ -1,6 +1,6 @@
 **WeatherAPI** - Hava Durumu Bilgilerini Temel Bir Yöntem Olarak Öğrenin.
 
-- Anma:
+- Tanımlama:
 ``` js
 const weather = require("havadurumu.js")
 ```
