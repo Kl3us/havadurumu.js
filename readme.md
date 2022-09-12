@@ -7,7 +7,7 @@ const weather = require("havadurumu.js")
 
 - Kodu Başlat:
 ``` js
-module.exports = zaman uyumsuz() => {
+module.exports = async() => {
 const check = weather({
 country: "Azerbaycan", // Tüm Lokasyonlara İzin Verilir, ancak ermenistan değil
 days: 3 //1,2,3,4,.....
